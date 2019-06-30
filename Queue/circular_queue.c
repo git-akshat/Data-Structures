@@ -1,4 +1,4 @@
-/* .Write a C program to implement CIRCULAR QUEUE to perform
+/* C program to implement CIRCULAR QUEUE to perform
  the insertion, deletion and display operations. */
 
 #include <stdio.h>
